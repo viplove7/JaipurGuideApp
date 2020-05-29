@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Jaipur</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="cafe">Cafe</string>
+    <string name="monument">Monument</string>
+    <string name="festival">Festival</string>
+    <string name="food">Food</string>
+    <string name="nibs1">When on the quest for some of the best cafes in Jaipur; you need to consider nibs. This place is well known for a wide range of international and national café cuisine with menu items like Vada Pav and nachos jostling for your attention</string>
+    <string name="Nibs">Nibs</string>
+    <string name="Loft18">Loft18</string>
+    <string name="Kaleidoscope">Kaleidoscope</string>
+    <string name="Brown">Brown Sugar</string>
+    <string name="Kafka">Kafka</string>
+    <string name="Malviya">Malviya Nagar</string>
+    <string name="Raja">Raja Park</string>
+    <string name="C">C Scheme</string>
+    <string name="tonk">Tonk Road</string>
+    <string name="jaipur">Jaipur</string>
+    <string name="descr1">Loft 18 is known for its pizza, chocolate brownies, hot chocolate, burgers, and pancakes. Free WIFI and the interesting board games make Loft 18 a favored haunt for tourists and locals alike.</string>
+    <string name="descr2"> Kaleidoscope is very popular among a younger crowd. As expected; the food is mostly café cuisine with menu items such as the mojitos, special noodles, and nachos being the favored choices here.</string>
+    <string name="descr3">Popular among a younger crowd; Brown Sugar is easy on the pocket, easy on the eyes and easy on the palate. The ambiance here is relaxed and laid back and the food here is mostly well-prepared café cuisine</string>
+    <string name="descr4">Kafka is located at Tonk Road, Jaipur. It is a spacious restaurant with both indoor and outdoor seating arrangements.</string>
+    <string name="descr5">The Elephant festival in the month of February and March, also marks an important occasion in Jaipur every year.</string>
+    <string name="descr6">Teej is an important and the most rejoiced festivals of Jaipur. This festival sees a lot of women dressing up in lovely traditional attires and jewellery.</string>
+    <string name="descr7">The kite festival is held in Jaipur on January 14 every year. This festivals of Jaipur is marked by the presence of a myriad kites in the skies</string>
+    <string name="descr8">The Jaipur Literature Festival which began in 2006 has now become the largest literary festival conducted in the Asia Pacific. </string>
+    <string name="descr9">The Jaipur International Film Festival was launched in 2009. Of all the festivals of Jaipur, this festival marks a new era in the history of cinema in India. </string>
+    <string name="descr10">Dal Baati Churma is a renowned Rajasthani dish. Baati, prepared in pure desi ghee, is unleavened bread that is eaten with dal. </string>
+    <string name="descr11">Pyaaz Ki Kachori or Onion Kachori is a scrumptious food snack from Jodhpur. Usually eaten as a breakfast snack or an evening snack, the fragrance of the snack can easily bring the foodie out from a health-freak</string>
+    <string name="descr12">Accompanied with the boiled rice, Rajasthani Kadhi is a staple food that is eaten all across the state. Rajasthani Kadhi is piquant and spicy enough to make you drool over it.</string>
+    <string name="descr13"> Finally, we have a delicious soup on the list. Bajra Ki Raab is a healthy soup originating from Rajasthan that has its fame in the nearby states as well.</string>
+    <string name="descr14">Mohan Thaal, the rich name is enough is to bring waters in anybodys mouth. Mohan Thaal is a famous Rajasthani food item. It is a lip-smacking dessert that can easily seduce the taste buds easily.</string>
+    <string name="descr15">Made of red and pink sandstone, Jaipur signature palace of unusual architecture is a stunning example of local artistry. The top of the Hawa Mahal offers an excellent view over the city.</string>
+    <string name="descr16">The museum houses the unique collection of ancient stuffs like beautiful crafts work, ceramics objects, sketches, models, woodwork, toys, dolls, common history examples, such as Egyptian Mummy and the well known Persian Golden Carpet.</string>
+    <string name="descr17">This place best suits your need to catch a bird’s-eye view of the ‘Pink City’. This fort is one of its kind in Jaipur and is comfortably seated on the edge of Aravalli Hills.</string>
+    <string name="descr18">Jaigarh Fort is comfortably standing atop the Cheel Ka Teela (‘Hill of Eagles’) of Aravali Hills overlooking the Maota Lake and Amer Fort. </string>
+    <string name="descr19">Abhaneri Stepwells or popularly known as Chand Baori Stepwell was built by Nikumbh Dynasty’s King Chandais and is one of the oldest and compelling tourist attractions in Rajasthan.</string>
+    <string name="name1">Elephant Festival</string>
+    <string name="name2">Teej Festival</string>
+    <string name="name3">Kite Festival</string>
+    <string name="name4">JLF</string>
+    <string name="name5">JIFF</string>
+    <string name="name6">Daal Bati</string>
+    <string name="name7">Pyaaz Kachori</string>
+    <string name="name8">Kadhi</string>
+    <string name="name9">Bajra Ki Raab</string>
+    <string name="name10">Mohaan Thal</string>
+    <string name="name11">Hawa Mahal</string>
+    <string name="name12">Albert Hall Museum</string>
+    <string name="name13">Nahargarh Fort</string>
+    <string name="name14">Jaigarh Fort</string>
+    <string name="name15">Abhaneri Stepwells</string>
+    <string name="location1">Badi Choupad</string>
+    <string name="location2">Ram Nivas Garden</string>
+    <string name="location3">Nahargarh Road"</string>
+    <string name="location4">DeviSinghPura</string>
+    <string name="location5">Dausa</string>
+</resources>
